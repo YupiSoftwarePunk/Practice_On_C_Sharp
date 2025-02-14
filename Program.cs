@@ -1,135 +1,168 @@
-﻿namespace New_proj
+﻿using System.Linq;
+
+namespace ConsoleApp
 {
+
+    // опфускауия - запутывание кода
+    // nullable - тип данных который может принимать null
+    // int? a = null;     - обозначение то что число null (string к примеру)
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello, World!");
 
 
+            // 2 способа преобразования а int
+            //int.Parse(Console.ReadLine());
+            //Convert.ToInt32(Console.ReadLine());
+
+            //object s = c;    // boxing (Упаковка)
+            //c = (float)s;    // unboxing (распаковка)
+
+            // Строки
             /*
-            Примитивные типы данных
-            int
-            float (32)
-            double (64) - влезает больше чисел после запятой
-            bool
-            char ''
-            string
-            все типы данных - классы
-
-            целочисленные
-            byte (0 - 255)
-            short (-32768 - 32767)
-            int (4 байта)
-            long (12L)
-            unsigned (uint 12)
-
-            дробные
-            float - 7 знаков после запятой (12.5f)
-            double - 15-16 знаков после запятой
-            decimal - 28-29 знаков после запятой
-
-            синтаксис объявления
-            тип название = значение;
-
-            неявная типизация
-            var a = 10; // тип определяется на этапе компиляции
-
-            операторы
-            арифметические   - + * / % 
-            сравнения < > == != <= >=
-            присваивания += -= *= /= = 
-            инкремент декремент ++ -- префиксные и постфиксные
-            логические || && !
-
-            приоритеты (* /) > (+ -), (|| &&) > (> < ==)
-
-            управляюшие конструкции
-            условные операторы if else-if else
-            циклы for while do-while
-
+             * string name = "value";
+             * string str = new string(Console.ReadLine())
+             * string str2 = new string(Console.ReadLine())
+             * 
+             * индексация строк
+             * str[0]
+             * int a = str.Lenght
+             * char[] chars = new char [str]
+             * asd.CopyTo(chars)
+             * 
+             * str.Equals(chars)  - сравнивает строки между собой (по значению)
+             * String.Compare(str, str2)    // сравнивает строки между собой (по значению)
+             * str.Contains(str2)   - проверияет входит ли параметр в строку
+             * str.Replace('a', 'b')  - заменяет символы
+             * str.Split('.')  - разделяет строку
+             * String.Join(" ", chars)  - объединяет строки, а в данном случае есть неявное преобразование
+             * 
+             * Форматирование строк
+             * 
+             * 1. конкатенация - сложение строк
+             * string c = str + str2
+             * 
+             * 2. интерполяция - встраивание строк
+             * Console.WriteLine($"{12} - even")
+             * 
+             * 3. Format
+             * string.Format("asd{0} ", 12)
+             * 
+             * StringBuilder strBldr = new StringBuilder()
+             * strBldr.Append(3)
+             * string str3 = strBldr.ToString()
+             * 
+             * 
+             * 
+             * Перечисление  (enum)
+             * 
+             * enum название {}
+             * enum нульзя создавать в методах. Их нужно создавать в классе или вне класса (в поле namespace)
+             * 
+             * enum DayOfWeek
+             * {
+             * monday
+             * tuesday
+             * wednesday
+             * thirsday
+             * friday
+             * saturday
+             * sunday
+             * }
+             * 
+             * int num = (int) DayOfWeek.monday
+             * Console.WriteLine(DayOfWeek.monday)
+             * Console.WriteLine(num)
              */
 
-            //for (int i = 0; i < 20; i++)
+
+
+
+
+            //Console.Write("Введите число:");
+            //int num = int.Parse(Console.ReadLine());
+
+            //int[] numbers = { 12, 11, 22, 33, 44, 12, 11, 0, 1, 2, 99};
+            ////int counter = 0;
+
+            //for (int i = 0; i < numbers.Length; i++)
             //{
-            //    if (i % 2 == 0)
-            //    {
-            //        Console.WriteLine($"{i} - четное");
-            //    }
-            //    else 
-            //    {
-            //        Console.WriteLine($"{i} - нечетное");
-            //    }
+            //    Console.Write(numbers[i] + " ");
+            //}
+            //Console.WriteLine("\n\n");
+            //for (int i = 0; i < numbers.Length / 2; i++) 
+            //{
+            //    int temp = numbers[i];
+            //    numbers[i] = numbers[numbers.Length - 1 - i];
+            //    numbers[numbers.Length - 1 - i] = temp;
+            //}
+            //for (int i = 0;i < numbers.Length;i++)
+            //{
+            //    Console.Write(numbers[i] + " ");
             //}
 
 
-            //string a = Console.ReadLine();
 
-            //int num = 0;
-            //do
+
+            //Console.WriteLine("Заполните массив 3x3");
+
+            //int[,] numbers = new int[3, 3];
+            //for (int i = 0; i < 3; i++)
             //{
-            //    Console.Write("Введите число: ");
-            //    num = int.Parse(Console.ReadLine());
-
-            //    if (num == 7)
+            //    for (int j = 0; j < 3; j++)
             //    {
-            //        Console.WriteLine("Вы угадали число");
+            //        Console.Write("Введите число: ");
+            //        numbers[i, j] = Convert.ToInt32(Console.ReadLine());
             //    }
-            //    else if (num < 7)
+            //}
+
+            //Console.WriteLine();
+            //for (int i = 0; i < 3; i++)
+            //{
+            //    for (int j = 0; j < 3; j++)
             //    {
-            //        Console.WriteLine("Число должно быть больше");
+            //        Console.Write(numbers[i, j] + " ");
             //    }
-            //    else if (num > 7)
+            //    Console.WriteLine();
+            //}
+
+
+
+
+
+            //string dict = "aeyuioAEYUIO";
+            //int counter = 0;
+            //Console.WriteLine("Введите строку: ");
+            //string sent = Convert.ToString(Console.ReadLine());
+            //for (int i = 0; i < sent.Length; i++)
+            //{
+            //    if (dict.Contains(sent[i]))
             //    {
-            //        Console.WriteLine("Число должно быть меньше");
+            //        counter++;
             //    }
-            //} while (num != 7);
+            //}
+
+            //Console.WriteLine(counter);
 
 
-            int num;
-            int maxNum = int.MinValue;
-            string strNum;
 
-            while (true)
+            Console.WriteLine("Введите строку: ");
+            string sent = Convert.ToString(Console.ReadLine().ToLower());
+            string sent2 = "";
+            for (int i = sent.Length - 1; i >= 0; i--)
             {
-                Console.Write("Введите число: ");
-                strNum = Console.ReadLine();
-
-                if (strNum == "")
-                {
-                    break;
-                }
-
-                num = int.Parse(strNum);
-                if (maxNum < num)
-                {
-                    maxNum = num;
-                }
+                sent2 += sent[i];
             }
-            Console.WriteLine(maxNum);
-
-
-
-            /*
-             * Массивы
-             * тип[] имя = new тип[размер] 
-             * тип[] имя = {12, 22, 33, 444, 55, 0}
-             * int a = nums[1] - O(1)
-             * пробежаться по массиву можно: 
-             * for ()
-             * foreach ()
-             * 
-             * многомерные массивы
-             * int[,] asd = new int[3, 3]
-             * int [, , ] asd2 = new int [3, 3, 3]
-             * 
-             * зубчатый массив - массив с массивами
-             * int [][] ints = new int [3][]
-             * 
-             * двумерный массив и зубчатый масив отличаются тем, что у двумерных массивов обязательно нужно указывать длину, а в зубчатом не нужно 
-             * и можно записать любой размер
-             */
+            if (sent.Equals(sent2))
+            {
+                Console.WriteLine($"строка {sent} - полиндром");
+            }
+            else
+            {
+                Console.WriteLine($"строка {sent} - не полиндром");
+            }
         }
+
     }
 }
-
