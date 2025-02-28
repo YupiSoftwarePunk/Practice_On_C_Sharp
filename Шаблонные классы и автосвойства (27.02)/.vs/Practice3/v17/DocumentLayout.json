@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\excursiontour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:excursiontour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\ipurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:ipurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\noncash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:noncash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:cash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\fromceltofar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:fromceltofar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\fromceltokel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:fromceltokel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|c:\\users\\denis\\downloads\\practice3\\practice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C834A9B1-6841-49AD-B09C-42B18EECA45B}|Practice3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cash.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Cash.cs",
+              "RelativeDocumentMoniker": "Cash.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Cash.cs",
+              "RelativeToolTip": "Cash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NonCash.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\NonCash.cs",
+              "RelativeDocumentMoniker": "NonCash.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\NonCash.cs",
+              "RelativeToolTip": "NonCash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPurchase.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\IPurchase.cs",
+              "RelativeDocumentMoniker": "IPurchase.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\IPurchase.cs",
+              "RelativeToolTip": "IPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Purchase.cs",
+              "RelativeDocumentMoniker": "Purchase.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Purchase.cs",
+              "RelativeToolTip": "Purchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcursionTour.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\ExcursionTour.cs",
+              "RelativeDocumentMoniker": "ExcursionTour.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\ExcursionTour.cs",
+              "RelativeToolTip": "ExcursionTour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Bus.cs",
+              "RelativeDocumentMoniker": "Bus.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Bus.cs",
+              "RelativeToolTip": "Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Train.cs",
+              "RelativeDocumentMoniker": "Train.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Train.cs",
+              "RelativeToolTip": "Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransport.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\ITransport.cs",
+              "RelativeDocumentMoniker": "ITransport.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\ITransport.cs",
+              "RelativeToolTip": "ITransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Iprintable.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Iprintable.cs",
+              "RelativeDocumentMoniker": "Iprintable.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Iprintable.cs",
+              "RelativeToolTip": "Iprintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Iconverter.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Iconverter.cs",
+              "RelativeDocumentMoniker": "Iconverter.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Iconverter.cs",
+              "RelativeToolTip": "Iconverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FromCelToKel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\FromCelToKel.cs",
+              "RelativeDocumentMoniker": "FromCelToKel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\FromCelToKel.cs",
+              "RelativeToolTip": "FromCelToKel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FromCelToFar.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\FromCelToFar.cs",
+              "RelativeDocumentMoniker": "FromCelToFar.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\FromCelToFar.cs",
+              "RelativeToolTip": "FromCelToFar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Denis\\Downloads\\Practice3\\Practice3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T16:46:55.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
