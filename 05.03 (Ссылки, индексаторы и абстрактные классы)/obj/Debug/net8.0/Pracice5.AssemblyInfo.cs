@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C#Practice")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pracice5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75e1bcb52e6725bf7193fdfc7f91042b5be9f8b1")]
-[assembly: System.Reflection.AssemblyProductAttribute("C#Practice")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C#Practice")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pracice5")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pracice5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Top\\Downloads\\Pracice5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|c:\\users\\top\\downloads\\pracice5\\magicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|solutionrelative:magicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|c:\\users\\top\\downloads\\pracice5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|c:\\users\\top\\downloads\\pracice5\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|solutionrelative:class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|c:\\users\\top\\downloads\\pracice5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86E1AE3-045D-46E0-8898-DEC6A5264B75}|Pracice5.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MagicArray.cs",
+              "DocumentMoniker": "C:\\Users\\Top\\Downloads\\Pracice5\\MagicArray.cs",
+              "RelativeDocumentMoniker": "MagicArray.cs",
+              "ToolTip": "C:\\Users\\Top\\Downloads\\Pracice5\\MagicArray.cs",
+              "RelativeToolTip": "MagicArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:31:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "C:\\Users\\Top\\Downloads\\Pracice5\\Class5.cs",
+              "RelativeDocumentMoniker": "Class5.cs",
+              "ToolTip": "C:\\Users\\Top\\Downloads\\Pracice5\\Class5.cs",
+              "RelativeToolTip": "Class5.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:31:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Top\\Downloads\\Pracice5\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Top\\Downloads\\Pracice5\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:55:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Top\\Downloads\\Pracice5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Top\\Downloads\\Pracice5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:28:26.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

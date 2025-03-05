@@ -1,0 +1,14 @@
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.AssemblyInfoInputs.cache
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.AssemblyInfo.cs
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.csproj.CoreCompileInputs.cache
+C:\Users\Top\Downloads\Pracice5\bin\Debug\net8.0\Pracice5.exe
+C:\Users\Top\Downloads\Pracice5\bin\Debug\net8.0\Pracice5.deps.json
+C:\Users\Top\Downloads\Pracice5\bin\Debug\net8.0\Pracice5.runtimeconfig.json
+C:\Users\Top\Downloads\Pracice5\bin\Debug\net8.0\Pracice5.dll
+C:\Users\Top\Downloads\Pracice5\bin\Debug\net8.0\Pracice5.pdb
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.dll
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\refint\Pracice5.dll
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.pdb
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\Pracice5.genruntimeconfig.cache
+C:\Users\Top\Downloads\Pracice5\obj\Debug\net8.0\ref\Pracice5.dll
