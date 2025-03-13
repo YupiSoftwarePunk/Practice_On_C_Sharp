@@ -83,6 +83,9 @@ namespace NewPractice13._02
             //Student student4 = new Student("Grab", "science", [5, 3, 5]);
             //Student student5 = new Student("Sara", "phisics", [2, 2, 3]);
 
+
+
+            // Тут почти все нужно будет фиксить
             List<Student> students = new List<Student>()
             {
                 new Student("Alex", "phisics", new List<int>{ 2, 4, 5 }),
