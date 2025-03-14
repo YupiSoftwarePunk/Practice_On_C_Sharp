@@ -77,15 +77,6 @@ namespace NewPractice13._02
 
             // задача 2
 
-            //Student student = new Student("Alex", "phisics", [2, 4, 5]);
-            //Student student2 = new Student("Lola", "maths", [3, 2, 3]);
-            //Student student3 = new Student("Martin", "science", [1, 4, 2]);
-            //Student student4 = new Student("Grab", "science", [5, 3, 5]);
-            //Student student5 = new Student("Sara", "phisics", [2, 2, 3]);
-
-
-
-            // Тут почти все нужно будет фиксить
             List<Student> students = new List<Student>()
             {
                 new Student("Alex", "phisics", new List<int>{ 2, 4, 5 }),
@@ -100,52 +91,53 @@ namespace NewPractice13._02
                 Console.WriteLine(students[i].Info());
             }
 
-
-            Dictionary<string, List<Student>> facultGroups = new Dictionary<string, List<Student>>();
-            foreach (Student student in students)
+            Dictionary<string, List<Student>> facultyGroup = new Dictionary<string, List<Student>>();
+            // Групировка по фокультативам
+            foreach (var student in students)
             {
-                if (!facultGroups.ContainsKey(student.Faculty))
+                if (!facultyGroup.ContainsKey(student.Faculty))
                 {
-                    facultGroups[student.Faculty] = new List<Student>();
+                    facultyGroup[student.Faculty] = new List<Student>();
                 }
-                facultGroups[student.Faculty].Add(student);
-
-
-                foreach (Student faculty in facultGroups)
-                {
-                    string facultyName = faculty.Key;
-                    List<Student> studentsFaculty = faculty.Value;
-
-                    double totalSum = 0;
-                    int totalGrade = 0;
-                    foreach (Student student in studentsFaculty)
-                    {
-                        foreach (var grade in student.Grades)
-                        {
-                            totalSum += grade;
-                            totalGrade++;
-                        }
-                    }
-                    double facultyAverage = totalSum / totalGrade;
-
-                    // поиск лучшего студента
-
-                    Student best = null;
-                    double maxAverage = 0;
-                    foreach (Student student in studentsFaculty)
-                    {
-                        double average = student.AverageGrade();
-                        if (average > maxAverage || best == null)
-                        {
-                            best = student;
-                            maxAverage = average;
-                        }
-                    }
-                }
-                Console.WriteLine($"Faculty: {facultyName}";
-                Console.WriteLine($"Average grade: {facultyAverage}");
-                Console.WriteLine($"Best student: {best.Name}, Average grade: {maxAverage}";
+                facultyGroup[student.Faculty].Add(student);
             }
+
+            // Обработка студентов по факультетам
+            foreach (var faculty in facultyGroup)
+            {
+                string facultyName = faculty.Key;
+                List<Student> studentsInFaculty = faculty.Value;
+
+                // расчет общего среднего балла факультета
+                double totalSum = 0;
+                int totalGrades = 0;
+                foreach (Student student in studentsInFaculty)
+                {
+                    foreach (var grade in student.Grades)
+                    {
+                        totalSum += grade;
+                        totalGrades++;
+                    }
+                }
+                double facultyAverage = totalSum / totalGrades;
+
+                // ищем лучщего студента 
+                Student best = null;
+                double maxAverage = 0;
+                foreach (Student student in studentsInFaculty)
+                {
+                    double average = student.AverageGrade();
+                    if (student.AverageGrade() > maxAverage || best == null)
+                    {
+                        maxAverage = average;
+                        best = student;
+                    }
+                }
+                Console.WriteLine($"Факультет: {facultyName}");
+                Console.WriteLine($"Средний балл: {facultyAverage}");
+                Console.WriteLine($"Лучший студент: {best.Name}," + $"средний балл: {maxAverage}");
+            }
+        
         }
     }
 }
