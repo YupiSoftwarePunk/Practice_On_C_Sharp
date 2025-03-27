@@ -41,7 +41,7 @@ namespace NewPractice_27._03_
         public override string ToString()
         {
             return $"DailyPayment = {DailyPayment}, NumberOfDays = {NumberOfDays}, PenaltyPerDay = {PenaltyPerDay}, DelayDays = {DelayDays}" +
-                $""; // тут вывести все поля
+                $"TotalWithoutPenalty = {TotalWithoutPenalty}, Penalty = {Penalty}, TotalWithPenalty = {TotalWithPenalty}"; 
         }
     }
 }
