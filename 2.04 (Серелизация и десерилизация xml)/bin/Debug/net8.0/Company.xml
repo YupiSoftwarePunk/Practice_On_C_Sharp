@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Company>
+  <Employee Id="1">
+    <Name>John</Name>
+    <Age>33</Age>
+  </Employee>
+  <Employee Id="2">
+    <Name>Anny</Name>
+    <Age>20</Age>
+  </Employee>
+</Company>

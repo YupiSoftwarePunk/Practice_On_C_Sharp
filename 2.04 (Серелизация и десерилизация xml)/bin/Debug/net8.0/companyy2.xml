@@ -1,0 +1,10 @@
+<company>
+  <Emloyee Id="1">
+    <Name xmlns="John" />
+    <Age xmlns="22" />
+  </Emloyee>
+  <Emloyee Id="2">
+    <Name xmlns="Anny" />
+    <Age xmlns="24" />
+  </Emloyee>
+</company>
